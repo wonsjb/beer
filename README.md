@@ -1,2 +1,2 @@
 # beer
-Couple of my beer recipe
+Couple of my beer recipes
